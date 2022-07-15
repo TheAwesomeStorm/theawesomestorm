@@ -1,6 +1,6 @@
 ### Hello! I'm Daniel Mendes, welcome to my profile!
 
-I’m currently working as Full Stack Jr Developer at GuiaInvest
+I’m currently working as Full Stack Developer
 
  <div>
   <a href="https://github.com/TheAwesomeStorm">
